@@ -1,0 +1,7 @@
+# ignore .vs/ folder
+.vs/
+
+# ignore IntelliSense database files
+*.db
+*.db-shm
+*.db-wal
